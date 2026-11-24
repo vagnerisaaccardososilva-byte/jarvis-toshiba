@@ -1,0 +1,17 @@
+J.A.R.V.I.S. TOSHIBA - VERSÃO 0.5
+
+Esta versão aproxima o painel do visual da prévia: máscara ao fundo, relógio e saudação à esquerda, cartão de clima à direita com ícone dinâmico, atalhos circulares na parte inferior e indicadores no rodapé.
+
+COMO ABRIR
+1. Extraia todos os arquivos do ZIP para uma mesma pasta.
+2. Abra index.html no navegador.
+3. Mantenha wallpaper.jpg junto de index.html, style.css e app.js.
+
+CLIMA E LOCALIZAÇÃO
+O clima usa Open-Meteo pela internet. A configuração inicial está em Brasília - DF. Para mudar, edite no começo de app.js: locationName, latitude e longitude.
+
+ATALHOS
+Os atalhos abrem páginas web. Filmes e Séries e TV ao Vivo abrem pesquisas do YouTube. Apps abre o site da VIDAA; não garante abertura da loja de aplicativos da TV.
+
+A compatibilidade final depende do navegador da TV. Esta versão foi montada para teste no computador antes de publicar na web.
+\nVERSÃO 0.6 - ÍCONES\nOs atalhos agora usam ícones vetoriais integrados ao HTML: símbolo vermelho do YouTube, G multicolorido do Google e desenhos próprios para Início, Notícias, Filmes e Séries, Apps e TV ao Vivo. Não precisam de arquivos externos.\n
